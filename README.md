@@ -1,7 +1,7 @@
 
 ### Satyajeet Bedi <br>
 ### 102117170  <br>
-### CS6 <br>
+### CS6
 ## DataSet Used
 Breast Cancer Dataset from scikit learn (as the same dataset is available on UCI)
 
