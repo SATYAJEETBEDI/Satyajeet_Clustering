@@ -1,11 +1,11 @@
 
-Satyajeet Bedi
-102117170
-CS6
-### DataSet Used
+### Satyajeet Bedi <br>
+### 102117170  <br>
+### CS6 <br>
+## DataSet Used
 Breast Cancer Dataset from scikit learn (as the same dataset is available on UCI)
 
-### Clustering Techniques
+## Clustering Techniques
 
 The clustering techniques employed in this project are:
 
@@ -13,7 +13,7 @@ The clustering techniques employed in this project are:
 2. Agglomerative clustering
 3. DBSCAN
 
-### Evaluation Parameters
+## Evaluation Parameters
 
 The performance of the clustering algorithms is evaluated based on the following parameters:
 
