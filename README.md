@@ -1,6 +1,6 @@
 
 ### Name: Satyajeet Bedi <br>
-### Roll No.: 102117170  <br>
+### Roll No: 102117170  <br>
 ### Class: CS6
 ## DataSet Used
 Breast Cancer Dataset from scikit learn (as the same dataset is available on UCI)
